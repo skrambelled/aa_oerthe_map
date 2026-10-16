@@ -15,7 +15,10 @@ position.
 2. Select `OertheMap.xml`
 3. **Close**
 
-Keep `seed_data.lua` and `coord_config.lua` next to it.
+Keep `seed_data.lua` next to it.
+
+Then type `map_setup` once so mush_windows can read your prompt (redo it
+after changing your prompt with `prompt set`).
 
 ## Controls
 
